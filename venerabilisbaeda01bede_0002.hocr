@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./venerabilisbaeda01bede_0002.png"; bbox 0 0 2094 3439; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 492 909 1643 1142">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 492 909 1643 1142">
+     <span class='ocr_line' id='line_1_1' title="bbox 750 909 1385 979; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 750 912 1196 979; x_wconf 76' lang='lat' dir='ltr'>LIBRARY</span> <span class='ocrx_word' id='word_1_2' title='bbox 1253 909 1385 978; x_wconf 74' lang='lat' dir='ltr'>OF</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 492 1058 1643 1142; baseline -0.003 0"><span class='ocrx_word' id='word_1_3' title='bbox 492 1063 652 1142; x_wconf 77' lang='lat' dir='ltr'>WE</span> <span class='ocrx_word' id='word_1_4' title='bbox 671 1061 897 1141; x_wconf 83' lang='lat' dir='ltr'>LLES</span> <span class='ocrx_word' id='word_1_5' title='bbox 915 1061 1101 1140; x_wconf 82' lang='lat' dir='ltr'>LEY</span> <span class='ocrx_word' id='word_1_6' title='bbox 1150 1058 1643 1141; x_wconf 76' lang='lat' dir='ltr'>COLLEGE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 627 2071 1516 2251">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 627 2071 1516 2251">
+     <span class='ocr_line' id='line_1_3' title="bbox 627 2071 1516 2135; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 627 2071 1191 2135; x_wconf 76' lang='lat' dir='ltr'>PURCHASED</span> <span class='ocrx_word' id='word_1_8' title='bbox 1241 2071 1516 2134; x_wconf 77' lang='lat' dir='ltr'>FROM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 804 2195 1196 2251; baseline 0.01 -4"><span class='ocrx_word' id='word_1_9' title='bbox 804 2195 982 2248; x_wconf 73' lang='lat' dir='ltr'>Xirk</span> <span class='ocrx_word' id='word_1_10' title='bbox 1024 2196 1196 2251; x_wconf 76' lang='lat' dir='ltr'><strong>Fund</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 430 731 1706 2594">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 430 731 1706 2594">
+     <span class='ocr_line' id='line_1_5' title="bbox 430 731 1706 2594; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 430 731 1706 2594; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
